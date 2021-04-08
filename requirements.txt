@@ -14,7 +14,7 @@ click==7.1.2
 cloudpickle==1.3.0
 clyent
 conda
-conda-build==3.18.11
+conda-build
 conda-verify==3.4.2
 cycler==0.10.0
 dash==1.16.0
