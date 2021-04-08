@@ -16,7 +16,7 @@ clyent
 conda
 conda-build
 conda-verify
-cycler
+cycler==0.10.0
 dash==1.16.0
 dash-auth==1.4.1
 dash-core-components==1.12.0
