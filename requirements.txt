@@ -1,5 +1,5 @@
 absl-py==0.10.0
-anaconda-client==1.7.2
+anaconda-client
 anaconda-navigator==1.9.12
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
 astunparse==1.6.3
